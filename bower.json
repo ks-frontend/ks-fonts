@@ -1,0 +1,27 @@
+{
+  "name": "ks-fonts",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ks-frontend/ks-fonts.git",
+  "authors": [
+    "Khalid Sookia <khalidsookia@gmail.com>"
+  ],
+  "description": "Just a basic folder structure for the ks-frontend-framework",
+  "main": "lib/fonts.scss",
+  "keywords": [
+    "Font-face, mixin, library,ks-frontend-framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/contrib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ks-front-core": "~0.0.0"
+  },
+  "devDependencies": {
+  }
+}
