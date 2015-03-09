@@ -10,3 +10,7 @@ A couple of mixins for easy integration with any compass project or the Font-fac
 ```console
 $ bower install ks-fonts
 ```
+
+[![Bower version](https://badge.fury.io/bo/ks-fonts.svg)](http://badge.fury.io/bo/ks-fonts)
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
