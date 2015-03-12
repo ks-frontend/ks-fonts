@@ -1,5 +1,5 @@
 /*!
- * ks-fonts - v0.0.1 - 2015-03-05
+ * ks-fonts - v0.0.3 - 2015-03-11
  * https://github.com/ks-frontend/ks-fonts
  * Copyright (c) 2015 
  * Licensed ISC
@@ -720,7 +720,7 @@
 
 @font-face {
   font-family: "ks-fonts";
-  src: url('/ks-fonts.eot?1423431348') format('embedded-opentype'), url('/ks-fonts.svg?1423431348') format('svg'), url('/ks-fonts.ttf?1423431348') format('truetype'), url('/ks-fonts.woff?1423431348') format('woff');
+  src: url('../fonts/lib/fonts/ks-fonts.eot') format('embedded-opentype'), url('../fonts/lib/fonts/ks-fonts.svg') format('svg'), url('../fonts/lib/fonts/ks-fonts.ttf') format('truetype'), url('../fonts/lib/fonts/ks-fonts.woff') format('woff');
 }
 /* line 10, ../../../../lib/scss/fonts.scss */
 .ks-fonts {

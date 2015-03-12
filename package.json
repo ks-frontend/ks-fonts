@@ -1,6 +1,6 @@
 {
   "name": "ks-fonts",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Fonts library for iknsa-frontend-framework but which can be used without the framework",
   "main": "templates/fonts.html",
   "scripts": {

@@ -25,8 +25,8 @@ module.exports = function(grunt) {
                 options: {
                   sassDir: 'lib/',
                   cssDir: 'dist/css/lib',
-                  http_fonts_path: "/",
-                  fontsDir: 'lib/fonts',
+                  http_fonts_path: "../fonts/lib/fonts",
+                  fontsDir: 'fonts',
                   environment: 'development',
                   require: 'susy'
                 }
@@ -55,7 +55,7 @@ module.exports = function(grunt) {
             },
             fonts: {
                 expand: true,
-                src: ['lib/fonts/**'],
+                src: ['lib/fonts/**/*'],
                 dest: 'dist/fonts'
             }
         },

@@ -715,7 +715,7 @@
 
 @font-face {
   font-family: "ks-fonts";
-  src: url('/ks-fonts.eot?1423431348') format('embedded-opentype'), url('/ks-fonts.svg?1423431348') format('svg'), url('/ks-fonts.ttf?1423431348') format('truetype'), url('/ks-fonts.woff?1423431348') format('woff');
+  src: url('../fonts/lib/fonts/ks-fonts.eot') format('embedded-opentype'), url('../fonts/lib/fonts/ks-fonts.svg') format('svg'), url('../fonts/lib/fonts/ks-fonts.ttf') format('truetype'), url('../fonts/lib/fonts/ks-fonts.woff') format('woff');
 }
 /* line 10, ../../../../lib/scss/fonts.scss */
 .ks-fonts {
